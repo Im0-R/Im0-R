@@ -5,10 +5,10 @@ Junior Gameplay Programmer focused on Unity, C#, multiplayer systems, and VR dev
 </h3>
 
 <p align="center">
-  <a href="https://leopaulvray.webflow.io/">
+  <a href="https://leopaulvray.lovable.app">
     <img src="https://img.shields.io/badge/Portfolio-View_My_Work-AD7FD7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/leopaul">
+  <a href="www.linkedin.com/in/leopaulvray">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
